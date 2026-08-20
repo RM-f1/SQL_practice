@@ -1,1 +1,1 @@
-# NewRepo
+# SQL Practice
